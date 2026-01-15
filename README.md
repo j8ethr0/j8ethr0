@@ -17,7 +17,12 @@ Defndr: Machine learning-driven SMS protection and spam-filtering engine.
 * **2011–2013:** Early App Store era. Built Fact File (App ID: 406480795) and several viral soundboards (incl. Ted Williams, Tiger Woods,). 
 * **2010:** Initial iOS engineering (Objective-C).
 
-### Contact
-- **Secure:** jethro [at] riseup [dot] net
+### Contact & Context
+* **Secure:** jethro [at] riseup [dot] net
+* Location: 📍 Bangkok / Dublin
 
-📍 Bangkok / Dublin.
+"The archive doesn't lie: Rejected soundboards, Objective-C experiments, and the 2011 origins of my 'No Internet Required' philosophy."
+
+Building privacy-focused tools and helping street cats.
+
+<img src="https://dro1d.org/images/hermes.png" width="380" alt="" style="border-radius: 12px; margin-top: 10px;">
