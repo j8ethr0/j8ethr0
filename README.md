@@ -17,4 +17,7 @@ Defndr: Machine learning-driven SMS protection and spam-filtering engine.
 * **2011–2013:** Early App Store era. Built Fact File (App ID: 406480795) and several viral soundboards (incl. Ted Williams, Tiger Woods,). 
 * **2010:** Initial iOS engineering (Objective-C).
 
+### Contact
+- **Secure:** jethro [at] riseup [dot] net
+
 📍 Bangkok / Dublin.
