@@ -29,7 +29,3 @@ Senior iOS Engineer & founder of Dro1d Labs. Building privacy-focused, on-device
 > “The archive doesn't lie: Rejected soundboards, Objective-C experiments, and the 2011 origins of my 'No Internet Required' philosophy.”
 
 ---
-
-## GitHub Bio (Sidebar)
-**Jethro (j8ethr0)**  
-Privacy-first iOS engineer. On-device security, local ML, and performance-driven apps. Founder at Dro1d Labs (NuDefndr, Defndr, Nu11VLT).  
