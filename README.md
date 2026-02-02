@@ -1,7 +1,7 @@
 # j8ethr0 | Dro1d Labs
 
 Dro1d Labs – Privacy-First iOS & macOS Apps
-https://dro1d.org
+# https://dro1d.org
 Building privacy-focused, on-device tools for Apple platforms since 2010.
 
 
