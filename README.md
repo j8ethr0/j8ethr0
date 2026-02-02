@@ -1,6 +1,9 @@
 # j8ethr0 | Dro1d Labs
 
-Senior iOS Engineer & founder of Dro1d Labs. Building privacy-focused, on-device tools for Apple platforms since 2010.
+Dro1d Labs – Privacy-First iOS & macOS Apps
+https://dro1d.org
+Building privacy-focused, on-device tools for Apple platforms since 2010.
+
 
 ---
 
